@@ -626,7 +626,7 @@ void welcomeMsg ()
     cout << "\t\t\t\t\t........................................" << endl;
     cout << endl;
     cout << "\t\t\t\t\tProject: Console Based Shopping system" << endl;
-    cout << "\t\t\t\t\tName: JAN SHER (F2022266074, Section V2) " << endl;
+    cout << "\t\t\t\t\tName: JAN SHER Wazir " << endl;
     cout <<"\n\t\t\t\t\tPress Any Key To Continue : ";
     getch();
     system("cls");
